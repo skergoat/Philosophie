@@ -1767,7 +1767,7 @@
                 "shasum": ""
             },
             "require": {
-                "composer-runtime-api": "^2.0.0",
+                "composer-runtime-api": "1.0.0",
                 "laminas/laminas-code": "^3.4.1",
                 "php": "~7.4.1",
                 "webimpress/safe-writer": "^2.0.1"
